@@ -1,0 +1,40 @@
+body {
+    background-color: #ff9933;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	font-size: 54;
+}
+
+img{
+	display: block;
+}
+
+#title {
+	background: red;
+	width: 650px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+	border-radius: 5px;
+}
+	
+#main {
+	background: white;
+	width:  400px;
+	padding: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
